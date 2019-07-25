@@ -131,17 +131,15 @@ Forget about `div`:
 ```swift
 struct Home: View {
   var body: some View {
-    Group {
-      // Similar to flex-direction: column
-      VStack {
-        // Similar to flex-direction: row
-        HStack {
-          Text("Hello")
-          Text("World")
-        }
-        
-        Text("Goodbye")
+    // Similar to flex-direction: column
+    VStack {
+      // Similar to flex-direction: row
+      HStack {
+        Text("Hello")
+        Text("World")
       }
+
+      Text("Goodbye")
     }
   }
 }
