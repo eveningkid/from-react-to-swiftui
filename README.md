@@ -223,7 +223,7 @@ struct Home: View {
 ```
 
 ## Where to go from there?
-- Apple came up with a great tutorial to get started with SwiftUI
+- Apple came up with [a great tutorial to get started with SwiftUI](https://developer.apple.com/tutorials/swiftui/tutorials)
 - If you prefer to enjoy great presentations right from WWDC this year:
   - [SwiftUI On All Devices](https://developer.apple.com/videos/play/wwdc2019/240)
   - [SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216)
